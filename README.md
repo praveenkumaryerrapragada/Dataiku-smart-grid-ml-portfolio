@@ -1,4 +1,4 @@
-# Smart Grid Forecasting & Anomaly Detection (Dataiku – Sample Project)
+# Smart Grid Forecasting & Anomaly Detection (Dataiku-Project)
 
 This repository demonstrates a sample AI/ML implementation inspired by
 smart grid and power domain use cases using **dummy data**.

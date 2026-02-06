@@ -1,0 +1,9 @@
+Date,Temperature_Level,Power_Demand_MW
+2024-01-01,Low,820
+2024-01-02,Low,830
+2024-01-03,Medium,900
+2024-01-04,Medium,920
+2024-01-05,High,1020
+2024-01-06,High,1050
+2024-01-07,Medium,940
+2024-01-08,Low,860
